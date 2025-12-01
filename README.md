@@ -7,7 +7,7 @@
 🚀 **Senior Full-Stack & Blockchain Engineer** with 8+ years of experience building cutting-edge solutions across web, dapps and AI applications.
 
 💡 **Core Expertise:**
-- **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, Several crypto bots and Web3 applications
+- **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, Several crypto AI bots and Web3 applications
 - **Full-Stack Engineering:** Scalable web applications, microservices, and cloud-native solutions
 - **AI Development:** Chatbot, AI Agent, AI integration, Custom AI bots
 - **Security-First Approach:** Implementing robust security measures for both traditional and blockchain systems
