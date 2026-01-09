@@ -1,20 +1,64 @@
-# 👋 Thanks so much for visiting my github ! <br />
+# 👋 Thanks for visiting my GitHub!
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Web3%20Engineer;Blockchain%20%26%20Web3%20Expert;Smart%20Contract%20Architect;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/monte1s">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20%26%20AI%20Engineer;AI%20Agent%20%7C%20Web%20Platforms;Always%20learning%20and%20building&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
 </p>
 
-🚀 **Senior Full-Stack & Blockchain Engineer** with 8+ years of experience building cutting-edge solutions across web, dapps and AI applications.
+---
 
-💡 **Core Expertise:**
-- **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, Several crypto AI bots and Web3 applications
-- **Full-Stack Engineering:** Scalable web applications, microservices, and cloud-native solutions
-- **AI Development:** Chatbot, AI Agent, AI integration, Custom AI bots
-- **Security-First Approach:** Implementing robust security measures for both traditional and blockchain systems
+🚀 **Senior Full-Stack & AI/Agent Engineer** with **8+ years of experience** designing, building, and scaling high-performance web platforms and AI-powered applications.
 
-🌐 I specialize in creating innovative solutions that bridge traditional web technologies with the decentralized future. From enterprise-grade applications to revolutionary blockchain protocols, I deliver secure, scalable, and user-centric solutions for clients worldwide.
+I focus on **modern web architectures**, **AI-driven systems**, and **agent-based workflows** that deliver real-world impact — from enterprise products to startup MVPs.
 
-🔒 While many of my blockchain and enterprise projects remain confidential, you can explore my open-source contributions and public repositories below.
+---
 
+## 💡 Core Expertise
 
-<img align="right" src="https://img.shields.io/github/followers/0xCreativePapoi?label=Follow&style=social" />
+### 🧩 Full-Stack Engineering
+- Frontend: **React, Next.js, Vue, Angular**
+- Backend: **Node.js, Express, Python (FastAPI, Django)**
+- API Design: **REST, GraphQL, WebSockets**
+- Databases: **PostgreSQL, MySQL, MongoDB, Redis**
+- Cloud & DevOps: **AWS, Docker, CI/CD, Serverless**
+- Performance, scalability, and clean architecture
+
+### 🤖 AI & Agent Development
+- **AI Agents & Autonomous Workflows**
+- **LLM integration** (OpenAI, Claude, open-source models)
+- Chatbots, copilots, and intelligent assistants
+- Tool-using agents (search, APIs, databases, workflows)
+- Prompt engineering & agent orchestration
+- AI-powered product features and automation
+
+### 🔐 Engineering Best Practices
+- Security-first mindset
+- Scalable system design
+- Maintainable, production-grade code
+- Testing, monitoring, and observability
+
+---
+
+## 🌐 What I Build
+- AI-powered web applications
+- Intelligent dashboards & internal tools
+- Agent-driven automation systems
+- SaaS platforms & enterprise web solutions
+- High-performance, user-centric products
+
+---
+
+## 🔍 Open Source & Work
+While many professional projects are private, this GitHub showcases:
+- Public repositories
+- Experiments with AI agents
+- Full-stack architectures
+- Tools, utilities, and prototypes
+
+Feel free to explore, star ⭐, or reach out.
+
+---
+
+<img align="right" src="https://img.shields.io/github/followers/monte1s?label=Follow&style=social" />
+
