@@ -56,7 +56,7 @@ While many professional projects are private, this GitHub showcases:
 - Full-stack architectures
 - Tools, utilities, and prototypes
 
-Feel free to explore, star ⭐, or reach out.
+Feel free to explore and reach out.
 
 ---
 
