@@ -59,5 +59,6 @@ While many professional projects are private, this GitHub showcases:
 Feel free to explore and reach out.
 
 ---
-<img align="right" src="https://img.shields.io/github/followers/0xCreativePapoi?label=Follow&style=social" />
+
+<img align="right" src="https://img.shields.io/github/followers/rockdev-ai?label=Follow&style=social" />
 
